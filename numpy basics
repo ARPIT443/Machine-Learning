@@ -9,5 +9,5 @@ print(c)
 
 print(a*2)  # it multiply 2 with each element of array
 print(a+5)  # it add 5 in each element of array
-print(b**2)  # it square each element of b
-print(a*b)   # it multiply a and b  corrosponding element 
+print(b**2) # it square each element of b
+print(a*b)  # it multiply a and b  corrosponding element 
