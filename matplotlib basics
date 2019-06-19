@@ -1,5 +1,4 @@
-import matplotlib.pyplot as plt
-   # importing visualization library
+import matplotlib.pyplot as plt       # importing visualization library
    
 x=[2,3,5,6]  # data to be plot on a graph
 x1=[4,3,8]
