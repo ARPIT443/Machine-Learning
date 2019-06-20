@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 import  matplotlib.pyplot    as   plt
-#   only  loading  python ori  lib 
+#  only  loading  python ori  lib 
 
 player=["Virat","Dhoni","Rohit","Dhawan"]  #players name
 runs=[120,150,78,140]  #player runs in a series
