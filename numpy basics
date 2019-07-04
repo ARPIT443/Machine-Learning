@@ -1,4 +1,4 @@
-# importing numpy library
+#  importing numpy library
 import numpy as np
 
 a=np.array([2,3,4,5])  #  creating an array
